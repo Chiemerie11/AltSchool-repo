@@ -1,0 +1,33 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    background-color: whitesmoke;
+}
+
+table
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 24px;
+    padding: 14px;
+    width: 30%;
+}
+
+td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 24px;
+    padding: 14px;
+    width: 30%;
+    text-align: center;
+    font-weight:500;
+}
+
+th
+{
+    padding: 20px;
+}
